@@ -83,3 +83,6 @@ datasets/
 cs231n/datasets/cifar-10-batches-py/
 cs231n/datasets/cifar-10-batches-py.tar.gz
 cs231n/datasets/imagenet_val_25.npz
+
+# Generated documentation (not tracked in git)
+docs/
